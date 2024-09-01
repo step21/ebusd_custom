@@ -1,0 +1,10 @@
+{
+  "domain": "ebusd-custom",
+  "name": "ebusd-custom",
+  "version": "0.1.0",
+  "codeowners": [],
+  "documentation": "https://www.home-assistant.io/integrations/ebusd",
+  "iot_class": "local_polling",
+  "loggers": ["ebusdpy"],
+  "requirements": ["ebusdpy==0.0.17"]
+}
